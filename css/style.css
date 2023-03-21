@@ -1,0 +1,327 @@
+.row1{
+	background-color:#DE18F4;
+	flex-direction:row;
+	display:flex;
+	}
+	
+.pinky{
+	background-color:white;
+	padding:10px;
+	margin:10px;
+	}
+	
+.column1{
+	background-color:#DE18F4;
+	flex-direction:column;
+	display:flex;
+	}
+	
+.pinky1{
+	background-color:red;
+	padding:10px;
+	margin:10px;
+	width:50px;
+	}	
+	
+.column-reverse{
+	background-color:#12EAC9;
+	flex-direction:column-reverse;
+	display:flex;
+	}	
+
+.cr{
+	background-color:#12EA60;
+	padding:10px;
+	margin:10px;
+	width:50px;
+	}
+	
+.row-reverse{
+	background-color:#12EAC9;
+	flex-direction:row-reverse;
+	display:flex;
+	}	
+
+.rr{
+	background-color:#12EA60;
+	padding:10px;
+	margin:10px;
+	width:50px;
+	}	
+	
+.wrap{
+	background-color:#EA1277;
+	flex-wrap:wrap;
+	display:flex;
+	height:500px;
+	}	
+
+.w{
+	background-color:#1240EA;
+	padding:10px;
+	margin:10px;
+	width:200px;
+	}	
+	
+.wrap-reverse{
+	background-color:#EA1277;
+	flex-wrap:wrap-reverse;
+	display:flex;
+	height:500px;
+	}	
+
+.wr{
+	background-color:#1240EA;
+	padding:10px;
+	margin:10px;
+	width:200px;
+	}	
+	
+. row wrap-reverse{
+	background-color:#EA1277;
+	flex-flow:row wrap-reverse;
+	display:flex;
+	height:500px;
+	}	
+
+.rwr{
+	background-color:#1240EA;
+	padding:10px;
+	margin:10px;
+	width:200px;
+	}	
+	
+.center{
+	background-color:#7EA1FF;
+	justify-content:center;
+	display:flex;
+	}	
+
+.c{
+	background-color:#F9FF7E;
+	padding:10px;
+	margin:10px;
+	width:200px;
+	}	
+	
+.end{
+	background-color:#7EA1FF;
+	justify-content:end;
+	display:flex;
+	}	
+
+.e{
+	background-color:#F9FF7E;
+	padding:10px;
+	margin:10px;
+	width:200px;
+	}
+	
+.start{
+	background-color:#7EA1FF;
+	justify-content:start;
+	display:flex;
+	}	
+
+.s{
+	background-color:#F9FF7E;
+	padding:10px;
+	margin:10px;
+	width:200px;
+	}	
+	
+.space-around{
+	background-color:#7EA1FF;
+	justify-content:space-around;
+	display:flex;
+	}	
+
+.sa{
+	background-color:#F9FF7E;
+	padding:10px;
+	margin:10px;
+	width:200px;
+	}
+	
+.space-between{
+	background-color:#7EA1FF;
+	justify-content:space-between;
+	display:flex;
+	}	
+
+.sb{
+	background-color:#F9FF7E;
+	padding:10px;
+	margin:10px;
+	width:200px;
+	}	
+	
+.space-evenly{
+	background-color:#7EA1FF;
+	justify-content:space-evenly;
+	display:flex;
+	}	
+
+.se{
+	background-color:#F9FF7E;
+	padding:10px;
+	margin:10px;
+	width:200px;
+	}	
+	
+.itemscenter{
+	background-color:#5BFE92;
+	align-items:center;
+	display:flex;
+	height:500px;
+	}	
+
+.aic{
+	background-color:#FE715B;
+	padding:10px;
+	margin:10px;
+	width:200px;
+	}	
+	
+.flex-start{
+	background-color:#5BFE92;
+	align-items:flex-start;
+	display:flex;
+	height:500px;
+	}	
+
+.fs{
+	background-color:#FE715B;
+	padding:10px;
+	margin:10px;
+	width:200px;
+	}	
+	
+.flex-end{
+	background-color:#5BFE92;
+	align-items:flex-end;
+	display:flex;
+	height:500px;
+	}	
+
+.fe{
+	background-color:#FE715B;
+	padding:10px;
+	margin:10px;
+	width:200px;
+	}	
+	
+.baseline{
+	background-color:#5BFE92;
+	align-items:baseline;
+	display:flex;
+	height:500px;
+	}	
+
+.bl{
+	background-color:#FE715B;
+	padding:10px;
+	margin:10px;
+	width:200px;
+	}	
+	
+.stretch{
+	background-color:#5BFE92;
+	align-items:stretch;
+	display:flex;
+	height:500px;
+	}	
+
+.ais{
+	background-color:#FE715B;
+	padding:10px;
+	margin:10px;
+	width:200px;
+	}	
+	
+.flex-start{
+	background-color:#FE665B;
+	align-content:flex-start;
+	display:flex;
+	flex-wrap:wrap;
+	height:500px;
+	}	
+
+.fs{
+	background-color:#5BFEE9;
+	padding:10px;
+	margin:10px;
+	width:200px;
+	}	
+	
+.flex-end{
+	background-color:#FE665B;
+	align-content:flex-end;
+	display:flex;
+	flex-wrap:wrap;
+	height:500px;
+	}	
+
+.fe{
+	background-color:#5BFEE9;
+	padding:10px;
+	margin:10px;
+	width:200px;
+	}	
+	
+.space-around{
+	background-color:#FE665B;
+	align-content:space-around;
+	display:flex;
+	flex-wrap:wrap;
+	}	
+
+.sa{
+	background-color:#5BFEE9;
+	padding:10px;
+	margin:10px;
+	width:200px;
+	}
+	
+.space-between{
+	background-color:#FE665B;
+	align-content:space-between;
+	display:flex;
+	flex-wrap:wrap;
+	}	
+
+.sb{
+	background-color:#5BFEE9;
+	padding:10px;
+	margin:10px;
+	width:200px;
+	}
+	
+.space-evenly{
+	background-color:#FE665B;
+	align-content:space-evenly;
+	display:flex;
+	flex-wrap:wrap;
+	}	
+
+.cse{
+	background-color:#5BFEE9;
+	padding:10px;
+	margin:10px;
+	width:200px;
+	}	
+	
+.lastcenter{
+	background-color:#FE665B;
+	align-content:center;
+	display:flex;
+	flex-wrap:wrap;
+	height:500;
+	}	
+
+.lc{
+	background-color:#5BFEE9;
+	padding:10px;
+	margin:10px;
+	width:200px;
+	}	
